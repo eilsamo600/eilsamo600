@@ -26,4 +26,4 @@ Here are some ideas to get you started:
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilsamo600&layout=compact&theme=solarized-light)
  
-![chaeyeon's github stats](https://github-readme-stats.vercel.app/api?username=eilsamo600&show_icons=true&theme=react)  
+![ChaeYeon's github stats](https://github-readme-stats.vercel.app/api?username=eilsamo600&show_icons=true&theme=react)  
