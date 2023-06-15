@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20chaeyeon%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20Chaeyeon%20%20&height=200&fontSize=100)
  </div>
  <div align=center>
 
