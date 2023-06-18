@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilsamo600&layout=compact&theme=solarized-light)
+ 
+![ChaeYeon's github stats](https://github-readme-stats.vercel.app/api?username=eilsamo600&show_icons=true&theme=react)  
+
+
 -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Eilsamo%20Github!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
- <div align=center>
-
-### Hi there 👋
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilsamo600&layout=compact&theme=solarized-light)
- 
-![ChaeYeon's github stats](https://github-readme-stats.vercel.app/api?username=eilsamo600&show_icons=true&theme=react)  
